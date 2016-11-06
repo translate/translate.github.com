@@ -9,3 +9,7 @@ _site
 *.swo
 *.swp
 *~
+
+# Jetbrains IDE
+.idea
+
