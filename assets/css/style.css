@@ -1,0 +1,10 @@
+/* New Defined Style Here*/
+
+@media(max-width: 900px) {
+    a.brand {
+        /*margin-left: 50px !important;*/
+        padding-left: 60px !important;
+    }
+}
+
+
